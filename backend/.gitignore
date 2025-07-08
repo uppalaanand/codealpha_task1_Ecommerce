@@ -1,0 +1,41 @@
+# Node modules
+/node_modules
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional, but recommended)
+.vscode/
+.idea/
+
+# Optional build artifacts
+/dist
+/build
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test coverage
+coverage/
+
+# Misc
+*.tgz
+.env.local
+.env.development
+.env.production
+
+# Ignore personal files
+/text.txt
+/uploads
